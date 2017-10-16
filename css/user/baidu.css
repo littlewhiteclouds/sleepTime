@@ -1,0 +1,45 @@
+* {
+    text-align: center;
+    font-size: 70px;
+}
+
+#header a {
+    float: left;
+}
+
+#loginArea {
+    margin: 20px;
+    padding: 20px;
+}
+
+#loginArea p {
+    font-size: 30px;
+}
+
+#loginArea img {
+    height: 400px;
+    width: 100%;
+}
+
+#loginArea input {
+    margin: 20px;
+    font-size: 60px;
+    border-style: solid;
+}
+
+#loginArea button {
+    margin: 20px;
+    font-size: 60px;
+    border-style: inset;
+}
+
+#footer {
+    margin-top: 200px;
+    margin-bottom: 0px;
+    font-size: 30px;
+}
+
+#footer p {
+    font-size: 25px;
+    
+}

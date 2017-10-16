@@ -1,0 +1,53 @@
+* {
+    font-size: 30px;
+    box-sizing: border-box;
+}
+
+#header a {
+    float: left;
+    text-decoration: none;
+}
+#header {
+	text-align:center;
+	
+}
+
+#registerArea {
+    margin: 0 5px;
+    text-align: center;
+}
+
+#registerArea img {
+ 		margins:5px 0;
+    width: 100%;
+}
+
+#registerArea input {
+		margin: 0;
+    font-size: 20px;
+    border-bottom: 1px solid #000;
+    text-align: left;
+    border-style: groove;
+    padding: 15px 6px;
+    color: dimgrey;
+}
+
+#registerArea button {
+       margin: 10px 0;
+    font-size: 30px;
+    border-style: outset;
+    color:white;
+    	background-color: cadetblue;
+    	border-radius: 12px;
+    width: 250px;
+}
+
+#footer {
+    margin-top: 200px;
+    margin-bottom: 0px;
+    font-size: 30px;
+}
+
+#footer p {
+    font-size: 25px;
+}

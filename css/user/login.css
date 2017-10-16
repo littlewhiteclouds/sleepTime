@@ -1,0 +1,49 @@
+* {
+    font-size: 30px;
+}
+
+#header {
+    text-align: center;
+}
+
+.moon {
+    margins: 5px 0;
+}
+
+#loginArea {
+    text-align: center;
+    margin: 0 5px;
+}
+
+#loginArea p {
+    font-size: 15px;
+}
+
+#loginArea input {
+    margin: 0;
+    font-size: 20px;
+    border-bottom: 1px solid #000;
+    text-align: left;
+    border-style: groove;
+    padding: 15px 6px;
+    color: dimgrey;
+}
+
+.dengRu {
+    margin: 10px 0;
+    font-size: 30px;
+    border-style: outset;
+    color: white;
+    background-color: cadetblue;
+    border-radius: 12px;
+    width: 250px;
+}
+
+#footer {
+    margin-top: 200px;
+    text-align: center;
+}
+
+#footer p {
+    font-size: 25px;
+}

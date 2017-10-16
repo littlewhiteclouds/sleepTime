@@ -1,0 +1,36 @@
+* {
+    font-size: 30px;
+}
+#header{
+	    background-color: navajowhite;
+    text-align: center;
+}
+#header a {
+    float: left;
+    text-decoration: none;
+}
+
+#punchArea {
+    text-align: center;
+}
+
+
+ table  {
+	width: 100%;
+}
+
+ td {
+        border: 1px solid darkcyan;
+         padding-top: 6px;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+#footer , #ad{
+	margin-top: 20px;
+	text-align:center;
+}
